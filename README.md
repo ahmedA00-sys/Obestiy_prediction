@@ -1,5 +1,3 @@
-تمام يا أحمد ✨ خليني أجهزلك **README.md** بروفيشنال لمشروع الـ **Obesity Prediction** بالـ Machine Learning، تحطه على GitHub.
-
 ---
 
 ## 📄 README.md
@@ -103,9 +101,3 @@ Contributions are welcome! Fork the repo, make changes, and submit a pull reques
 
 This project is licensed under the **MIT License**.
 
-```
-
----
-
-تحب أجهزلك كمان ملف **requirements.txt** بالـ libraries اللي أكيد محتاجها (numpy, pandas, sklearn, matplotlib, seaborn) عشان يبقى مشروعك جاهز للرفع على جيت هاب؟
-```
